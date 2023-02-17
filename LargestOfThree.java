@@ -18,5 +18,6 @@ public class LargestOfThree {
             }
         }
         System.out.println("The largest number is " + largest);
+        System.out.println("The sum of the numbers is " + (nums[0] + nums[1] + nums[2]));
     }
 }
